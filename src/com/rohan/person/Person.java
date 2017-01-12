@@ -38,7 +38,7 @@ public class Person
             i++;
         }
 
-        i = 2;
+        i = 1;
         do
         {
             System.out.println("part 2");
